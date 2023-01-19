@@ -1,9 +1,9 @@
 # Paddy_stung_stong
 
-<p float="center">
+<p>
   <img src="Total Paddy Area/Paddy Area Map 2017-2021.png" width=70% />
 </p>
 
-<p float="center">
+<p>
   <img src="Annual Paddy Area/gif_img/rice_map_2017_2022.gif" width=70% />
 </p>
